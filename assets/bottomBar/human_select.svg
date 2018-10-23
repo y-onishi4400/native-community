@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>human__select</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="human__select" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HUMAN" transform="translate(2.000000, 3.000000)" fill="#B5B5D5" stroke="#B5B5D5" stroke-width="2">
+            <path d="M7.99982891,0 C6.34576561,0 5,1.34576561 5,3.00017109 C5,4.65423439 6.34576561,6 7.99982891,6 C9.65389222,6 11,4.65423439 11,3.00017109 C11,1.34576561 9.65389222,0 7.99982891,0" id="Fill-1"></path>
+            <path d="M0,15 L16,15 C15.8853307,11.2814371 14.3870484,9 7.99968411,9 C1.31064166,9 0.102981244,11.8220226 0,15 Z" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

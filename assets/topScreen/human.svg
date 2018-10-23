@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>HUMAN</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.5">
+        <g id="ログイン画面" transform="translate(-52.000000, -364.000000)" fill="#9B9B9B">
+            <g id="HUMAN" transform="translate(52.000000, 364.000000)">
+                <path d="M8.99977188,0 C6.79435415,0 5,1.79435415 5,4.00022812 C5,6.20564585 6.79435415,8 8.99977188,8 C11.2051896,8 13,6.20564585 13,4.00022812 C13,1.79435415 11.2051896,0 8.99977188,0" id="Fill-1"></path>
+                <path d="M0,16 L18,16 C17.870997,11.6616766 16.1854294,9 8.99964462,9 C1.47447187,9 0.115853899,12.2923597 0,16 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

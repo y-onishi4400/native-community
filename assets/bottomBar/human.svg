@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>HUMAN</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HUMAN" fill="#9B9B9B">
+            <g>
+                <path d="M8.99982891,1 C7.34576561,1 6,2.34576561 6,4.00017109 C6,5.65423439 7.34576561,7 8.99982891,7 C10.6538922,7 12,5.65423439 12,4.00017109 C12,2.34576561 10.6538922,1 8.99982891,1 M8.99983004,8 C6.79443382,8 5,6.20556618 5,4.00016996 C5,1.79443382 6.79443382,0 8.99983004,0 C11.2052263,0 13,1.79443382 13,4.00016996 C13,6.20556618 11.2052263,8 8.99983004,8" id="Fill-1"></path>
+                <path d="M1,16 L17,16 C16.8853307,12.2814371 15.3870484,10 8.99968411,10 C2.31064166,10 1.10298124,12.8220226 1,16 Z M18,17 L0,17 L0,16.5007489 C0,11.2433017 2.69152351,9 8.99968253,9 C15.392289,9 18,11.1730737 18,16.5007489 L18,17 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

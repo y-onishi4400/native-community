@@ -1,0 +1,44 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "local": "NODE_ENV=local expo start -c",
+    "dev": "NODE_ENV=development expo start -c",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "eslint": "node node_modules/eslint/bin/eslint .",
+    "debug": "open 'rndebugger://set-debugger-loc?host=localhost&port=19001'"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^30.0.1",
+    "moment-timezone": "^0.5.21",
+    "prop-types": "^15.6.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-svg-uri": "^1.2.3",
+    "react-native-view-more-text": "^2.0.1",
+    "react-navigation": "^2.17.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.3",
+    "babel-preset-react-native": "^4.0.1",
+    "babel-remove-process-env-assignment": "^0.0.2",
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "prettier": "^1.14.3",
+    "redux-devtools-extension": "^2.13.5"
+  }
+}
